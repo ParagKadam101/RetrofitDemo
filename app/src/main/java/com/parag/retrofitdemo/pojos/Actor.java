@@ -37,12 +37,12 @@ public class Actor {
         this.film = film;
     }
 
-    /*@Override
+    @Override
     public String toString() {
         return "Actor{" +
                 "name='" + name + '\'' +
                 ", age='" + age + '\'' +
                 ", film='" + film + '\'' +
                 '}';
-    }*/
+    }
 }
